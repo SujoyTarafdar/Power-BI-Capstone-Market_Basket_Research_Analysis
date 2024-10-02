@@ -1,4 +1,4 @@
-# Power-BI-Market_Basket_Research_Analysis
+# PowerBI-Capstone-Market_Basket_Analysis
 Power BI Market_Basket_Research_Analysis
 
 Revenue Analysis
